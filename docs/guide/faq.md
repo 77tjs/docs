@@ -219,3 +219,4 @@ java.lang.SecurityException: grantRuntimePermission: Neither user 2000 nor curre
   在 `开发者选项` 中关闭 `Flyme 支付保护`
 
 关闭限制后重新运行命令即可
+如果你是coloror可以打开zhizuku，打开小黑屋，关闭常规检查和智能应用检测冻结就可以了合适大部分
